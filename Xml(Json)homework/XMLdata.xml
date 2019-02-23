@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<UserData>
+  <name>Tom</name>
+  <surname>Henks</surname>
+  <residentialAddress>
+    <city>Astana</city>
+    <street>A-98</street>
+    <home_number>9</home_number>
+    <apartament_number>3</apartament_number>
+  </residentialAddress>
+  <phone>
+    <homePhone>87019874563</homePhone>
+    <workPhone>87172633663</workPhone>
+  </phone>
+</UserData>    

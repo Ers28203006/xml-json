@@ -1,0 +1,17 @@
+﻿{
+  "UserData": {
+    "name": "Tom",
+    "phone": [
+      "87019874563",
+      "87172633663"
+    ],
+    "residentialAddress": {
+      "city": "Astana",
+      "street": "A-98",
+      "homeNumber": "9",
+      "apartamentNumber": "3"
+    },
+    "surname": "Henks"
+  }
+}
+
